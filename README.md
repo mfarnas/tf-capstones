@@ -1,2 +1,2 @@
-# tf-capstones
-Data science capstone projects
+# tf-projects
+Data science side projects
